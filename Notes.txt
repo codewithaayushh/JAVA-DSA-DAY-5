@@ -1,0 +1,36 @@
+Day 06 - Java Pattern Programs
+
+This folder contains basic Java practice programs focused on pattern printing using nested loops.
+
+Learning goal:
+- Understand how loops work together to print different shapes
+- Practice using nested for loops
+- Learn how to print stars, characters, and numbers in patterns
+
+Files in this folder:
+
+1. patter1.java
+   - Prints an inverted star pattern
+   - Uses nested loops to control rows and columns
+   - Shows how to reduce the number of stars in each line
+
+2. printCharacterPattern.java
+   - Prints a pattern of characters in alphabetical order
+   - Starts from 'A' and increases with each printed character
+   - Helps practice char variables and loop logic
+
+3. pyramidpatterrn.java
+   - Prints a number pyramid pattern
+   - Each row contains numbers from 1 to the current row number
+   - Demonstrates number-based pattern building
+
+Overall topic:
+This folder belongs to Java basics and pattern printing exercises. It is a good practice set for beginners who are learning loops, nested loops, and output formatting.
+
+Important concept used in all files:
+- Outer loop controls the number of rows
+- Inner loop controls the number of elements per row
+- System.out.print() prints without moving to the next line
+- System.out.println() moves to the next row
+
+This folder is a simple practice section for understanding how patterns are built in Java.
